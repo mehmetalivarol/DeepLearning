@@ -1,4 +1,3 @@
-# DeepLearning
 ## Deep Learning Specialization Notes
 
 Course Structure
