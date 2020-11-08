@@ -5,3 +5,4 @@ Course Structure
 02. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 03. Structuring Machine Learning Projects
 04. Convolutional Neural Networks
+05. Sequence Models
